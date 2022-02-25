@@ -1,7 +1,7 @@
 Big-Data-Systems-Assignment-2
 ==============================
 
-Nowcast Analysis for Federal Aviation Administration usecase
+Nowcast Analysis for Federal Aviation Administration use case
 
 Project Organization
 ------------
