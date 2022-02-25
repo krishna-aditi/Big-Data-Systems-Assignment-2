@@ -93,7 +93,7 @@ Project Organization
 --------
 #### What is nowcasting?
 “Nowcasting is a future prediction task where the model input consists of 13 VIL images sampled at 5 minute intervals. The model is trained to produce the next 12 images in the sequence corresponding to the next hour of weather. It generates high resolution, short term weather forecasts of radar echoes, precipitation, cloud coverage or other meteorological quantities widely used in public safety, air traffic control, and many other areas that require high fidelity and rapidly updating forecasts.”
-
+ 
 #### What are VIL images? 
 VIL imagery in remote sensing is basically a radar measuring cloud precipitation. It’s the integration of reflectivity within a column of air. A radar beam is released from a satellite and it it's incidence on the clouds will reflect. The wavelength of the beam is such that it reflects only on precipitation (drizzle, snow, rain, hail) and not cloud droplets or water vapor. The reflected wave is then summed over the vertical axis to give the total precipitation at a single point. The VIL measurement is usually used in determining the size of prospective hail, the potential amount of rain under a thunderstorm, and the potential downdraft strength when combined with the height of the echo tops. VIL can be used to triage storms based on their severe potential. It is sometimes still used to assess storms for their potential severity.
 
