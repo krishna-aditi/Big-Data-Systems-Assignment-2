@@ -8,7 +8,7 @@ Big-Data-Systems-Assignment-2
 
 **Original SEVIR repo link:** https://github.com/MIT-AI-Accelerator/neurips-2020-sevir
 
-**Design document source link: ** https://docs.google.com/document/d/18v4oZxatRdQRcDPXCPkx4tiK8Rqo05ZPi2sFPtx3ss0/edit?usp=sharing
+**Design document source link:** https://docs.google.com/document/d/18v4oZxatRdQRcDPXCPkx4tiK8Rqo05ZPi2sFPtx3ss0/edit?usp=sharing
 
 **CLAAT Link**: https://codelabs-preview.appspot.com/?file_id=18v4oZxatRdQRcDPXCPkx4tiK8Rqo05ZPi2sFPtx3ss0#2
 
